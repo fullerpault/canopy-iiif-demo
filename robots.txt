@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://fullerpault.github.io/canopy-iiif-demo
+
+# Sitemaps
+Sitemap: https://fullerpault.github.io/canopy-iiif-demo/sitemap.xml
